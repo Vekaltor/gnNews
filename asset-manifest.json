@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/news-app/static/js/main.64913fc5.js",
+    "main.js": "/news-app/static/js/main.8bc4a4ea.js",
     "static/media/newZealand.png": "/news-app/static/media/newZealand.d24e17018a1775f16ed4.png",
     "static/media/brazil.png": "/news-app/static/media/brazil.5fc6908abb8aa09d7487.png",
     "static/media/spain.png": "/news-app/static/media/spain.7962081aa2a119b19479.png",
@@ -8,9 +8,9 @@
     "static/media/argentina.png": "/news-app/static/media/argentina.9d0f8ddf7f87fafc418a.png",
     "static/media/japan.png": "/news-app/static/media/japan.b5679b6d4d12afb2137f.png",
     "index.html": "/news-app/index.html",
-    "main.64913fc5.js.map": "/news-app/static/js/main.64913fc5.js.map"
+    "main.8bc4a4ea.js.map": "/news-app/static/js/main.8bc4a4ea.js.map"
   },
   "entrypoints": [
-    "static/js/main.64913fc5.js"
+    "static/js/main.8bc4a4ea.js"
   ]
 }
